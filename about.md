@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Team Details coming soon!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We are Marquette University's NASA Remote Mining competition design team. We will be competing in the May 2019 competition with a robot that we will spend the next year building. 
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[contact@murobot.net](mailto:contact@murobot.net)
