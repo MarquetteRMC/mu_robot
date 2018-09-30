@@ -7,11 +7,11 @@ permalink: /sponsors/
 
 We are thrilled to be working with some amazing companies and organizations who have helped us out with funding and mentorship over the course of this project. We would like to thank all of them for supporting us and our project.
 
-![Marquette Opus College of Engineering](/images/coe.svg)
+![Marquette Opus College of Engineering](/images/coe.png =350x)
 
-![UTC Aerospace systems](/images/utc.jpg)
+![UTC Aerospace systems](/images/utc.jpg =350x)
 
-![Real Chili](/images/chili.png)
+![Real Chili](/images/chili.png =350x)
 
 
 
