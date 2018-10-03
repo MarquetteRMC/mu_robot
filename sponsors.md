@@ -6,7 +6,7 @@ permalink: /sponsors/
 ### Thanks so much to our sponsors!
 
 We are thrilled to be working with some amazing companies and organizations who have helped us out with funding and mentorship over the course of this project. We would like to thank all of them for supporting us and our project.
-<br/><br/><br/>
+<br/>
 
 <div class="grid">
   <img class="grid-image" alt="Marquette Opus College of Engineering" src="/images/coe.png" width="350"/>
