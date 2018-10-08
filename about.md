@@ -13,9 +13,9 @@ We are Marquette University's NASA Remote Mining competition design team. We wil
 
 * Matthew Braccio: Team leader, mechanical engineering. Likes Italian food and his dog, Maggie.
 
-* Erik Lebeau: Mechanical lead, mechanical engineering. Bad under pressure.
+* Erik LeBeau: Mechanical lead, mechanical engineering. Bad under pressure.
 
-* Dean Koumoutsos: Electrical lead, electrical engineering. Chicago sports fan.
+* Dean Koumoutsos: Electrical lead, electrical engineering. Likes pink crocs.
 
 * Zachary Nordgren: Controls lead, computer engineering. Climbs rocks and sails boats.
 
@@ -25,7 +25,7 @@ We are Marquette University's NASA Remote Mining competition design team. We wil
 
 * Zach Pederson: Treasurer, mechanical engineering. Good at breaking things.
 
-* Nathan Faust: Simulations, electrical engineering. Likes bonfires and warm beverages.
+* Nathan Faust: Simulations, electrical engineering. Likes bonfires and cryptocurrencies.
 
 
 ### Contact us
