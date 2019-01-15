@@ -10,7 +10,9 @@ We are thrilled to be working with some amazing companies and organizations who 
 
 <div class="grid">
   <img class="grid-image" alt="Marquette Opus College of Engineering" src="/images/coe.png" width="350"/>
-  <img class="grid-image" alt="UTC Aerospace systems" src="/images/utc.jpg" width="350"/>
+  <img class="grid-image" alt="Collins Aerospace" src="/images/collins.png" width="350"/> <br/>
+  <img class="grid-image" alt="Komatsu" src="/images/komatsu.svg" width="350"/>
+  <img class="grid-image" alt="Wisconsin Space Grant Consortium" src="/images/wsgc.png" width="350"/>
   <img class="grid-image" alt="Real Chili" src="/images/chili.png" width="350" />
 </div>
 
