@@ -13,7 +13,7 @@ We are Marquette University's NASA Remote Mining competition design team. We wil
 
 * Matthew Braccio: Team leader, mechanical engineering. Likes Italian food and his dog, Maggie.
 
-* Erik LeBeau: Mechanical lead, mechanical engineering. Bad under pressure.
+* Erik LeBeau: Mechanical lead, mechanical engineering. Hobby hopper.
 
 * Dean Koumoutsos: Electrical lead, electrical engineering. Likes pink crocs.
 
