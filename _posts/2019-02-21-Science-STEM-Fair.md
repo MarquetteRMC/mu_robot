@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goulda Meir Science Fair
+title: Golda Meir Science Fair
 ---
 
 ![Thank you card](/images/20190221_101937.jpg)
