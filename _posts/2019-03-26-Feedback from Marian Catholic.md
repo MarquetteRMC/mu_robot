@@ -3,4 +3,4 @@ layout: post
 title: Feedback from Marian Catholic
 ---
 
-![demonstration](/images/feedback.JPG)
+![Thank you letter](/images/feedback.JPG)
