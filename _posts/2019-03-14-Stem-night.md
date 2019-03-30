@@ -1,6 +1,6 @@
 ---
 layout: post
-title: STEM Night
+title: STEM Night at Marian Catholic
 ---
 
 ![demonstration](/images/20190314_185203.jpg)
