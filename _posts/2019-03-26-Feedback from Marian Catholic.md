@@ -3,4 +3,4 @@ layout: post
 title: Feedback from Marian Catholic
 ---
 
-![demonstration](/images/Marquette note.pdf)
+![demonstration](/images/feedback.JPG)
