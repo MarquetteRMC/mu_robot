@@ -1,11 +1,16 @@
 ---
 layout: post
-title: Science STEM Fair Volunteering
+title: Goulda Meir Science Fair
 ---
 
-![girls who code participants looking at an early version of the robot](/images/20190221_101937.jpg)
-![girls who code participants looking at an early version of the robot](/images/20190221_102146.jpg)
-![girls who code participants looking at an early version of the robot](/images/20190221_101548.jpg)
+![Thank you card](/images/20190221_101937.jpg)
+![Tim and Matt](/images/20190221_102146.jpg)
+![Presentation](/images/20190221_101548.jpg)
 
-On February 21st two memebers of the team Matt and Tim volunteered to judge for a STEM Fair  put on by a local middle school.
-They were excited to see the interest and engagement these students had with science. 
+Golda Meir is a part of the Milwaukee Public School System with a diverse mix of
+students (60% black, 23% white, 11% Hispanic). The team judged Golda Meir’s annual science
+fair, giving students the opportunity to showcase their projects and answer questions. This
+science fair is used by the school as an opportunity for the students to get feedback on their
+projects and better prepare them for success at the Wisconsin state science fair. The team asked
+the students questions to help clarify their projects and gave written feedback to help with their
+preparation for the state science fair.
